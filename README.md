@@ -8,7 +8,7 @@ In Windows type: pascalTriangle.exe <br />
 In Unix based OS type: ./pascalTriangle
 
 ## Example:
-$: ./test <br />
+$: ./pascalTriangle <br />
 This is a program that draws a Pascal's Trinagle. <br />
 Enter the number of rows to be displayed> 5 <br />
 You have entered 5. Proceed? (type 'y'-yes, 'n'-no, 'r'-reset): y <br />
