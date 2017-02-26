@@ -2,7 +2,7 @@
 
 ### Background
 Pascal's triangle is a triangular array of the binomial coefficients.
-![alt text](https://en.wikipedia.org/wiki/Pascal's_triangle#/media/File:PascalTriangleAnimated2.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
 
 ### Compile:
   g++ pascalTriangle.cpp -o pascalTriangle
