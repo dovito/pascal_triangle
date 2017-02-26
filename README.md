@@ -12,8 +12,8 @@ $: ./test <br />
 This is a program that draws a Pascal's Trinagle. <br />
 Enter the number of rows to be displayed> 5 <br />
 You have entered 5. Proceed? (type 'y'-yes, 'n'-no, 'r'-reset): y <br />
-________1 <br />
-      1   1 <br />
-    1   2   1 <br />
-  1   3   3   1 <br />
-1   4   6   4   1 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;1 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;1 <br />
+&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;1 <br />
+1&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;1 <br />
