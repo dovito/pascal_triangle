@@ -1,7 +1,8 @@
 ## A program that formats and prints Pascal's triangle by the given number of rows in the desired triangle
 
 ### Background
-Pascal's triangle is a triangular array of the binomial coefficients.
+Pascal's triangle is a triangular array of the binomial coefficients where each number is the sum of the two directly above it.
+See [Wikipedia](https://en.wikipedia.org/wiki/Pascal's_triangle) for more info 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
 
 ### Compile:
